@@ -4,9 +4,9 @@ Followed up from a Scotch.io tutorial [](https://scotch.io/tutorials/make-a-stel
 
 ## Screenshots
 
-![Image1](/docs/images/image1)
+![Image1](/docs/images/image1.png)
 
-![Image2](/docs/images/image2)
+![Image2](/docs/images/image2.png)
 
 ## Build setup
 
