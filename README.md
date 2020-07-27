@@ -2,9 +2,13 @@
 
 Followed up from a Scotch.io tutorial [](https://scotch.io/tutorials/make-a-stellar-react-nasa-app-in-10-minutes)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshots
 
-## Available Scripts
+![Image1](/docs/images/image1)
+
+![Image2](/docs/images/image2)
+
+## Build setup
 
 In the project directory, you can run:
 
